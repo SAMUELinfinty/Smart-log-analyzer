@@ -1,4 +1,4 @@
-# 🔍 SmartAnalyzer – AI-Powered CLI Log Scanner
+# 🔍 SmartLogAnalyzer – AI-Powered CLI Log Scanner
 
 SmartAnalyzer is a command-line log analysis tool designed for Blue Teamers, SOC analysts, and cybersecurity learners. It scans system logs for suspicious keywords, scores potential threats, and uses AI to summarize the log content — all within a lightweight `.bat`-launchable Python CLI.
 
